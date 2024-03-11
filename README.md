@@ -14,3 +14,6 @@ This Python script allows you to scrape product details from the HomeDepot Canad
 ## Requirements
 Make sure you have the following Python libraries installed:
 - `requests`
+
+If you are looking for any scraper/automation [Contact me on Fiverr](https://go.fiverr.com/visit/?bta=707597&brand=fiverrcpa&landingPage=https%3A%2F%2Fwww.fiverr.com%2Fmajdmsahel%2Fdo-python-web-scraping-and-automation)
+
